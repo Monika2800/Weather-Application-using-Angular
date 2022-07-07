@@ -1,4 +1,4 @@
-# Weather-Application-using-Angular
+ Weather Application using Angular
 
 
 In this project, I connect my angular application to a public API.
